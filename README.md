@@ -19,7 +19,7 @@ Drastically simplify the process, by allowing the user to open a Plotly Charth w
 
 If you have python installed:
 
- -Download the folder, paste it in the desired location in your computer (e.g. C:\Users\UserName\AppData\Local)
+- Download the installation folder, paste it in the desired location in your computer (e.g. C:\Users\UserName\AppData\Local)
 - The path shouldn't contain any whitespace character. This folder cannot be moved after the setup is done.
 - Run setup.py and follow the steps described in the .xlsx
 
