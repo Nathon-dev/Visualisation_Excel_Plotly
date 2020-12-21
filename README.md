@@ -25,6 +25,8 @@ If you have python installed:
 
 If you don't have python installed: 
 
-- I made an exe with the python scripts > available here (too heavy for Github)
+- I made an exe with the python scripts > available here: https://bit.ly/2J8OrqR (too heavy for Github)
 - It's a bit heavier so you will need a few minutes to downolad and unzip it, but then it works totally fine!
 - Same procedure as before. Just run the setup.exe and follow the instructions
+
+
