@@ -9,7 +9,7 @@ Plotly charts are more adapted and ergonomic for medium to big amount of datas
 
 However, most people work with Excel and do not master python and don't know how to plot charts with plotly from code.
 
-Even if they do, it's always wasted time and lot of frustration to export data from Excel, open it with python and plot with an adequate visualisation solution.
+Even if they do, it's always wasted time and lot of frustration to export data from Excel, open it with python and plot with an adequate vizualisation solution.
 
 ## Objective of this tool: 
 Drastically simplify the process, by allowing the user to open a Plotly Charth with one click from a selection of data in Excel
